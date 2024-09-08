@@ -1,0 +1,4 @@
+pycryptodome==3.13.0
+websockets==10.3
+asyncio==3.4.3
+qrcode==7.3.1
